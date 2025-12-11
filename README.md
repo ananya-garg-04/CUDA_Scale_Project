@@ -1,4 +1,4 @@
-# CUDA at Scale Independent Project
+# CUDA Scale Project
 
 ## Description
 
